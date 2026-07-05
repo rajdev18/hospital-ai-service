@@ -35,4 +35,21 @@ AI-powered microservice for the Hospital Management System built with Python, Fl
 | POST | `/ai/discharge-summary` | Generate discharge summary |
 
 ## Setup
+
 1. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+2. Set environment variable:
+```bash
+GROQ_API_KEY=your_groq_api_key
+```
+
+3. Run:
+```bash
+python app.py
+```
+
+## Part of
+This service is part of the [AI-Powered Hospital Management System](https://github.com/rajdev18/Hospital-management-system)
