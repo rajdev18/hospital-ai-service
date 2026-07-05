@@ -1,0 +1,47 @@
+Cardiologist treats heart diseases, chest pain, high blood pressure, and heart attacks.
+Neurologist treats persistent headaches, migraines, seizures, stroke, and brain disorders.
+Dermatologist treats skin diseases, rashes, acne, eczema, and skin infections.
+Orthopedic treats bone fractures, joint pain, arthritis, and sports injuries.
+Gastroenterologist treats stomach pain, digestive issues, ulcers, and liver diseases.
+Psychiatrist treats depression, anxiety, mental health disorders, and stress.
+Pediatrician treats diseases and health issues in children and infants.
+Ophthalmologist treats eye diseases, vision problems, and eye infections.
+ENT specialist treats ear, nose, and throat infections and disorders.
+Pulmonologist treats lung diseases, asthma, breathing problems, and tuberculosis.
+General Physician treats common illnesses like fever, cold, cough, body pain, and general health issues.
+General Physician should be consulted first for fever, body ache, weakness, and fatigue.
+General Physician treats viral infections, bacterial infections, and common diseases.
+Chest pain and shortness of breath should be seen by a Cardiologist.
+Persistent severe headache without fever should be seen by a Neurologist.
+Severe headache with high fever may indicate infection and should be seen by a General Physician first.
+Skin rash and itching should be seen by a Dermatologist.
+Joint pain and swelling should be seen by an Orthopedic.
+Stomach pain and nausea should be seen by a Gastroenterologist.
+Anxiety and depression should be seen by a Psychiatrist.
+Fever and cold in children should be seen by a Pediatrician.
+Blurred vision and eye pain should be seen by an Ophthalmologist.
+Ear pain and throat infection should be seen by an ENT specialist.
+Cough and breathing difficulty should be seen by a Pulmonologist.
+Fever is a common symptom caused by infection, inflammation, or other medical conditions.
+Common cold is a viral infection causing runny nose, sore throat, and mild fever.
+Diabetes is a condition where blood sugar levels are too high.
+Hypertension is high blood pressure that increases risk of heart disease and stroke.
+Asthma is a chronic lung disease causing difficulty breathing and wheezing.
+Allergies occur when immune system reacts to foreign substances like pollen or food.
+Back pain can be caused by muscle strain, poor posture, or spinal problems.
+Fatigue and tiredness can be caused by anemia, thyroid problems, or lack of sleep.
+Weight loss or weight gain can indicate thyroid disorders or diabetes.
+Frequent urination and excessive thirst are symptoms of diabetes.
+Chest tightness and wheezing are symptoms of asthma or lung disease.
+Numbness and tingling in hands or feet can indicate nerve damage or diabetes.
+Memory loss and confusion in elderly can indicate dementia or Alzheimer's disease.
+High fever with stiff neck can indicate meningitis and needs emergency care.
+Sudden severe chest pain can indicate heart attack and needs emergency care.
+Difficulty speaking or sudden weakness can indicate stroke and needs emergency care.
+Blood in urine can indicate kidney stones or urinary tract infection.
+Painful urination and frequent urination indicate urinary tract infection.
+Swollen lymph nodes can indicate infection or in rare cases lymphoma.
+Yellow skin and eyes indicate jaundice which can be caused by liver disease.
+Fever with body ache and weakness should be seen by a General Physician.
+Mild headache with fever should be seen by a General Physician.
+Runny nose, sore throat and mild fever should be seen by a General Physician.
